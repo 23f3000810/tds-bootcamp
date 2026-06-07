@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-1 ---
-NA
+I already knew NA
 --- 
 
 ## Day-1 Checklist
@@ -19,11 +19,11 @@ NA
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
-Checklist completed.
+I learned these things as well, apart from the checklist NA
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback: The day one checklist is well-structured and perfect for covering the basics.
+This is my feedback The day one checklist is well-structured and perfect for covering the basics.
 ---
 
 ---
