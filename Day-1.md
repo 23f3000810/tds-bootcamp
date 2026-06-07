@@ -1,5 +1,10 @@
 ---
 ---
+
+--- Before Day-1 ---
+NA
+--- 
+
 ## Day-1 Checklist
 
 - [x] I can open a Linux terminal and recognize the shell prompt (`user@machine:~$`)
@@ -13,8 +18,15 @@
 - [x] I understand the difference between `>` (overwrite) and `>>` (append)
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
 
+--- After Day-1 ---
+Checklist completed.
+---
+
 --- Feedback (Suggestions for the TDS Team) ---
 This is my feedback: The day one checklist is well-structured and perfect for covering the basics.
+---
 
 ---
 ---
+
+NA
